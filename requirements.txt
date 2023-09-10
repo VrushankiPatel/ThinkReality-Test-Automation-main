@@ -1,0 +1,5 @@
+getgauge
+Appium-Python-Client
+dotenv
+selenium
+protobuf==3.20

@@ -1,0 +1,9 @@
+### Problems
+
+1. Cannot simulate A3 Home, need more support on Alt Unity
+2. Log in to the TR hub require debug verison of TR Hub
+
+
+### Gauge Problem
+
+1. When using Class in step_impl folder, gauge will automatically initialize all objects first, then run test
